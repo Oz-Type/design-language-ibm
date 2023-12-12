@@ -177,7 +177,7 @@ const links = {
   firstCol: [
     {
       href: 'https://www.ibm.com/privacy',
-      linkText: 'Privacy',
+      linkText: 'About us',
     },
     {
       href: 'https://www.ibm.com/legal',
