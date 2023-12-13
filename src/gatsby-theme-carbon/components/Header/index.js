@@ -1,12 +1,10 @@
 import React from 'react';
 import Header from 'gatsby-theme-carbon/src/components/Header';
 
-const Switcher = () => (
+const CustomSwitcher = () => (
   <Header>
-   <span>OZTYPE</span>
+    IBM&nbsp;<span>OZTYPE</span>
   </Header>
 );
-// Remove the Switcher component
 
-export default Switcher;
-export default Header;
+export default CustomSwitcher;
