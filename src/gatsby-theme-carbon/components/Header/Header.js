@@ -6,9 +6,7 @@ import {
   SkipToContent,
   HeaderGlobalBar,
   HeaderGlobalAction,
-} from '@carbon/react';
-import { Switcher, Close } from '@carbon/react/icons';
-import cx from 'classnames';
+} 
 
 import HeaderNav from '../HeaderNav/HeaderNav';
 import GlobalSearch from '../GlobalSearch';
