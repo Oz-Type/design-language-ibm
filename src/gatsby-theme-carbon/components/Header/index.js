@@ -1,3 +1,10 @@
-import Header from './Header';
+import React from 'react';
+import Header from 'gatsby-theme-carbon/src/components/Header';
 
-export default Header;
+const CustomSwitcher = () => (
+  <Header>
+    IBM&nbsp;<span>OZTYPE</span>
+  </Header>
+);
+
+export default CustomSwitcher;
