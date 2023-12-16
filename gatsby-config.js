@@ -27,6 +27,8 @@ module.exports = {
           homepage: 'g10',
           interior: 'g10',
         },
+        // Add the navigationStyle option here
+        navigationStyle: 'header',
       },
     },
     `gatsby-transformer-yaml`,
